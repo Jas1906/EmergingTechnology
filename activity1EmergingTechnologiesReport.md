@@ -59,3 +59,25 @@ Emerging Practices:
 
 
 In conclusion, embracing these emerging technologies and practices can empower RegenTech to revolutionize their operations, making them more accessible, efficient, and responsive to the needs of farmers.
+
+# References
+elibary asabe 2023,Viewed 12/12/2023
+<https://elibrary.asabe.org/abstract.asp?aid=44960>
+drone-pictures, viewed 12/12/2023
+<https://www.drone-pictures.fr/what-are-the-advantages-of-drones-for-aerial-photography>
+wikipedia, viewed 12/12/2023
+<https://en.wikipedia.org/wiki/Aerial_photography>
+acility, viewed 12/12/2023
+<https://www.actility.com/precision-agriculture/>
+scalecomputing, viewed 12/12/2023
+<https://www.scalecomputing.com/resources/edge-computing-technology-enables-real-time-data-processing-and-decision-making> 
+boozallen, viewed 12/12/2023
+<https://www.boozallen.com/insights/cloud-transformation/edge-computing-for-decision-superiority.html>
+embopress, viewed 12/12/2023
+<https://www.embopress.org/doi/full/10.15252/embr.201440016> 
+ibm, viewed 12/12/2023
+<https://www.ibm.com/topics/blockchain-security> 
+snacknation, viewed 12/12/2023
+<https://snacknation.com/blog/online-collaboration-tools/>
+viewed 12/12/2023
+<https://chat.openai.com/>
